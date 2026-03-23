@@ -2,6 +2,8 @@
 
 前程序员，分享一些自己写的杂记散文等。
 
+[github pages](https://elviswind.github.io/Writing/)
+
 ## 📚 Articles
 
 - [梦境大学](梦境大学.md)
